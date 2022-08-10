@@ -1,0 +1,4 @@
+For class B IP address: 150.10.20.30 and CIDR: 0.0.0.255
+
+NetworkID: 150.10.20.0/24
+BroadcastID: 150.10.20.255
